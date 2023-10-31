@@ -1,0 +1,11 @@
+# Pico-Project
+A Project targeted for the Raspberry Pi Pico / RP2040
+
+# Setup
+
+## Linux (Debian Based)
+
+1. Install the Toolchain
+```bash
+sudo apt update && sudo apt install cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential -y
+```
