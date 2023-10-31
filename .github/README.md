@@ -1,9 +1,6 @@
 # CAN'T Sat
 Source Code for the [CanSat](https://cansat.esa.int) of [Team CANT](https://cant.hu)
 
-# About
-Our CanSat uses the RP2040 Microcontroller to ... TODO
-
 # Setup
 
 ## Linux (Debian Based)
