@@ -1,6 +1,10 @@
 # CAN'T Sat
 Source Code for the [CanSat](https://cansat.esa.int) of [Team CANT](https://cant.hu)
 
+# About
+
+> TODO
+
 # Setup
 
 ## Linux (Debian Based)
