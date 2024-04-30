@@ -23,3 +23,4 @@ add_compile_options(-Wall
 
 # Sources
 add_subdirectory(blink)
+add_subdirectory(lib)
